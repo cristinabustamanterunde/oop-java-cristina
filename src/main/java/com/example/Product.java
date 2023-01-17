@@ -1,15 +1,13 @@
 package com.example;
 
+import java.security.PrivateKey;
+
 public class Product {
-    public static void main(String[] args) {
 
-    // Artículos de bisutería
+    private String name;
+    private Double Price;
+    private String Manufacturer;
 
-        String Product1 = "Broche";
-        String product2 = "Pendiente";
-        String Product3 = "Pulsera";
-        String Product4 = "Gargantilla";
-        String Product5 = "Aro";
 
     }
 }
